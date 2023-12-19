@@ -1,20 +1,56 @@
 {
   "students": [
     {
-      "name": "Alex",
+      "firstName": "Pushpa K",
+      "lastName": "Kondaveeti",
       "id": 0
     },
     {
+      "firstName": "Roopali",
+      "lastName": "Ghanta",
+      "id": 1
+    }
+  ],
+  "scores": [
+    {
+      "id": 0,
+      "Maths": 90,
+      "Science": 67,
+      "Economics": 78,
+      "English": 80,
+      "Programming": 79
+    },
+    {
       "id": 1,
-      "name": "Jane"
+      "Maths": 56,
+      "Science": 67,
+      "Economics": 82,
+      "English": 61,
+      "Programming": 54
     },
     {
-      "name": "Jill",
-      "id": 2
+      "id": 2,
+      "Maths": 72,
+      "Science": 70,
+      "Economics": 67,
+      "English": 88,
+      "Programming": 90
     },
     {
-      "name": "Tom A",
-      "id": 3
+      "id": 3,
+      "Maths": 78,
+      "Science": 69,
+      "Economics": 81,
+      "English": 60,
+      "Programming": 83
+    },
+    {
+      "id": 4,
+      "Maths": 88,
+      "Science": 98,
+      "Economics": 80,
+      "English": 78,
+      "Programming": 96
     }
   ]
 }
