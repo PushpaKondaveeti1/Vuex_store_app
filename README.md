@@ -27,3 +27,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### to run backend 
+
+npm run json-server-starts
+### this will start loading db.json
+# Vuex_store_app
